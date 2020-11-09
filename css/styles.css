@@ -1,0 +1,15 @@
+table {
+  cellspacing : 20px;
+}
+
+hr {
+  width: 50%;
+  border-style: dotted;
+  height: 10px;
+  border-width: 10px 0px 0px 0px;
+  border-color: #495464;
+}
+
+body {
+  background-color: #bbbfca;
+}
